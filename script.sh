@@ -1,1 +1,1 @@
-echo 'Its changed for dev branch'
+echo 'Its changed for automation branch'
